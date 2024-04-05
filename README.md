@@ -1,6 +1,6 @@
 # Personagens ONE-PIECE
 
-Responsivo PC
+# Responsivo PC
 
 https://personagens-one-piece.netlify.app/
 ![image](https://github.com/israelkg/projeto-one-piece/assets/159387743/c2e1dde1-b2a4-4576-8e77-7b617a685f92)

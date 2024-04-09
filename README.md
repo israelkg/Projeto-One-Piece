@@ -1,6 +1,6 @@
 # Personagens ONE-PIECE
 
-# Responsivo PC e MOBILE
+# Projeto Responsivo
 
 https://personagens-one-piece.netlify.app/
 
